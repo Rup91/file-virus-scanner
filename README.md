@@ -10,13 +10,18 @@ Both approaches use AWS services, serverless patterns, and antivirus integration
 ## ⚠ Security Considerations
 
 ➡ Files are scanned in-memory: no disk persistence.
+
 ➡ Lambda functions use minimal IAM roles
+
 ➡ Quarantined files are isolated with strict permissions
 
 ## 🎯 Real-Life Applications
 
 ➡ Resume upload portals (HR tech)
+
 ➡ Document management systems
+
 ➡ Enterprise intranet portals
+
 ➡ Legal and healthcare file storage
 
